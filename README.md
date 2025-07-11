@@ -78,6 +78,15 @@ Ola o meu nome é Artur. Sou estudante do 3º ano da ESTG - Escola Superior de T
 
 <img 
     align="left" 
+    alt="GitLab"
+    title="GitLab" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="SQL Server Managment"
     title="SQL Server Managment" 
     width="30px" 
