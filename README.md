@@ -153,5 +153,8 @@ Ola o meu nome é Artur. Sou estudante do 3º ano da ESTG - Escola Superior de T
 
 </p>
 
-![My Snake](https://raw.githubusercontent.com/Arturito2005/Arturito2005/main/dist/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
