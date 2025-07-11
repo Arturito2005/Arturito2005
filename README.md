@@ -96,14 +96,7 @@ Ola o meu nome é Artur. Sou estudante do 3º ano da ESTG - Escola Superior de T
 />
 
 
-<img 
-    align="left" 
-    alt="ExpressJs"
-    title="ExpressJs" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
+<span style="color:white; padding-right: 10px;">ExpressJS</span>
 
 <img 
     align="left" 
