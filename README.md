@@ -153,4 +153,5 @@ Ola o meu nome é Artur. Sou estudante do 3º ano da ESTG - Escola Superior de T
 
 </p>
 
-![snake-gif](https://github.com/Arturito2005/Arturito2005/blob/output/github-contribution-grid-snake.svg)
+![My Snake](https://raw.githubusercontent.com/Arturito2005/Arturito2005/main/dist/github-contribution-grid-snake.svg)
+

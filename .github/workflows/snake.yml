@@ -1,35 +1,33 @@
-snake.yml:
-name: Generate snake animation
+name: Snake Game
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-    - main
+  schedule:
+    - cron: '0 */5 * * *'   # a cada 5 horas
+  workflow_dispatch:        # permite disparar manualmente
 
 jobs:
-  generate:
-    permissions:
-      contents: write
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
     steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      # 1) Puxa o repositório completo (incluindo history)
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # 2) Prepara a pasta de saída antes de gerar o SVG
+      - name: Prepare output folder
+        run: mkdir -p dist
+
+      # 3) Gera o snake baseado nos teus commits
+      - name: Generate snake SVG
+        uses: Platane/snk@master
         with:
           github_user_name: Arturito2005
-          outputs: dist/snake.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # 4) Comita automaticamente o SVG gerado
+      - name: Commit updated SVG
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}      # <— obrigatório!
+          commit_message: 'chore: update snake animation'
+          file_pattern: 'dist/github-contribution-grid-snake.svg'
