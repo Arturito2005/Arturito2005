@@ -19,6 +19,15 @@ Ola o meu nome é Artur. Sou estudante do 3º ano da ESTG - Escola Superior de T
 
 <img 
     align="left" 
+    alt="C#"
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="UML"
     title="UML" 
     width="30px" 
@@ -69,6 +78,15 @@ Ola o meu nome é Artur. Sou estudante do 3º ano da ESTG - Escola Superior de T
 
 <img 
     align="left" 
+    alt=".NET"
+    title=".NET" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="GitLab"
     title="GitLab" 
     width="30px" 
@@ -93,7 +111,6 @@ Ola o meu nome é Artur. Sou estudante do 3º ano da ESTG - Escola Superior de T
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
-
 
 <img 
     align="left" 
