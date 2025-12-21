@@ -39,19 +39,21 @@ Ola o meu nome é Artur. Sou estudante do 3º ano da ESTG - Escola Superior de T
 ### 📊 Estatísticas
 
 <div align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=Arturito2005&show_icons=true&theme=dark&locale=pt-br" 
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturito2005&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-  <br/> <img 
-    height="180em" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Arturito2005&theme=dark&hide_border=true&locale=pt_BR" 
-  />
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arturito2005&show_icons=true&theme=dark&locale=pt-br" alt="Github Stats" />
+      </td>
+      <td align="center" style="border: none;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturito2005&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="border: none;">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Arturito2005&theme=dark&hide_border=true&locale=pt_BR" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
