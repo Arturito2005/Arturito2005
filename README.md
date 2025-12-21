@@ -38,7 +38,7 @@ Ola o meu nome é Artur. Sou estudante do 3º ano da ESTG - Escola Superior de T
   <img align="left" alt="NPM" title="NPM" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
   <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="left" alt="Cypress" title="Cypress" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
-  <img align="left" alt="JWT" title="JSON Web Tokens" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jsonwebtokens/jsonwebtokens-original.svg" />
+  <img align="left" alt="JWT" title="JSON Web Tokens" width="30px" style="padding-right: 10px;" src="https://www.vectorlogo.zone/logos/jwtio/jwtio-icon.svg" />
 </div>
 
 <br/><br/>
@@ -50,9 +50,16 @@ Ola o meu nome é Artur. Sou estudante do 3º ano da ESTG - Escola Superior de T
     height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=Arturito2005&show_icons=true&theme=dark&locale=pt-br" 
   />
+  
   <img 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturito2005&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+  
+  <br/>
+  <img 
+    height="180em" 
+    src="https://nirzak-streak-stats.vercel.app/?user=Arturito2005&theme=dark" 
   />
 </div>
 
