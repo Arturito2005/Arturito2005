@@ -38,30 +38,23 @@ Ola o meu nome é Artur. Sou estudante do 3º ano da ESTG - Escola Superior de T
 
 ### 📊 Estatísticas
 
-<p>
+<div align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=Arturito2005&show_icons=true&theme=dark&locale=pt-br" 
   />
-
   <img 
-      align="left" 
-      alt="Top Langs" 
-      height="200" 
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturito2005&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturito2005&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-  <img 
-      align="left"
-      alt="GitHub Streak"
-      height="200"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Arturito2005&theme=dark&hide_border=true&locale=pt_BR"
+  <br/> <img 
+    height="180em" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Arturito2005&theme=dark&hide_border=true&locale=pt_BR" 
   />
-</p>
+</div>
+
+<br/>
 
 <div align="center">
   <picture>
