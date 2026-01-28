@@ -1,9 +1,11 @@
+[🇵🇹 Leia em Português](./README.pt.md)
 ## 🧑‍💻 Artur Pinto
 
-**`Desenvolvedor de software`**
+**`Software Developer`** **`Software Engineer`**
 
-Ola o meu nome é Artur. Sou estudante do 3º ano da ESTG - Escola Superior de Técnologia e Gestão do Porto. No secundário tirei o curso profissional de Técnico de Gestão e Programação de Sistemas Informáticos, na Escola Secundária Martins Sarmento. Sou um admirador da tecnologia e adoro nos meus tempos livres de aprender mais sobre a mesma e de jogar videoJogos. Para além de estudante também sou jogador de Rugby, onde jogo na equipa GRUFC.
+Hello, my name is Artur. I am a 3rd-year student at **ESTG - Escola Superior de Tecnologia e Gestão do Porto**. 
 
+During secondary school, I completed the vocational course in **IT Systems Management and Programming Technician** at Escola Secundária Martins Sarmento. I am a technology enthusiast, and in my free time, I love learning more about it and playing video games. Beyond being a student, I am also a Rugby player for the **GRUFC** team.
 ### 🛠️ Linguagens e Tecnologias
 
 #### 💻 Linguagens
@@ -49,10 +51,10 @@ Ola o meu nome é Artur. Sou estudante do 3º ano da ESTG - Escola Superior de T
   <table>
     <tr>
       <td align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arturito2005&show_icons=true&theme=dark&locale=pt-br" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arturito2005&show_icons=true&theme=dark&locale=en" />
       </td>
       <td align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturito2005&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturito2005&theme=dark&layout=compact&custom_title=Technologies&langs_count=9" />
       </td>
     </tr>
     <tr>
