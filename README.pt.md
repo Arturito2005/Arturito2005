@@ -67,10 +67,10 @@ Sou um entusiasta por tecnologia, sempre com vontade de aprender, evoluir e enfr
   <table>
     <tr>
       <td align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arturito2005&show_icons=true&theme=dark&locale=pt-br" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arturito2005&show_icons=true&theme=dark&locale=pt-br&v=1" />
       </td>
       <td align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturito2005&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturito2005&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&v=1" />
       </td>
     </tr>
     <tr>
