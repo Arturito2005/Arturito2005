@@ -75,12 +75,11 @@ Sou um entusiasta por tecnologia, sempre com vontade de aprender, evoluir e enfr
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=Arturito2005&theme=dark" />
+        <img height="180" src="https://streak-stats.demolab.com/?user=Arturito2005&theme=dark" />
       </td>
     </tr>
   </table>
 </div>
-
 <br/>
 
 <div align="center">
