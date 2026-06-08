@@ -3,9 +3,13 @@
 
 **`Software Developer`** **`Software Engineer`**
 
-Hello, my name is Artur. I am a 3rd-year student at **ESTG - Escola Superior de Tecnologia e Gestão do Porto**. 
+Hello, my name is Artur! 👋
 
-During secondary school, I completed the vocational course in **IT Systems Management and Programming Technician** at Escola Secundária Martins Sarmento. I am a technology enthusiast, and in my free time, I love learning more about it and playing video games. Beyond being a student, I am also a Rugby player for the **GRUFC** team.
+I am a recent Computer Engineering graduate from ESTG - Escola Superior de Tecnologia e Gestão do Porto. My journey in technology began with a vocational course in IT Systems Management and Programming at Escola Secundária Martins Sarmento.
+
+As a Software Developer, I focus on backend architecture, with hands-on experience in Go, gRPC, Protobuf, Angular, and the .NET ecosystem.
+
+I am a tech enthusiast always eager to learn, improve my skills, and tackle new challenges. Outside of software development, I love playing video games and I am an active Rugby player for the GRUFC team. 🏉
 
 ### 🛠️ Tech Stack
 
