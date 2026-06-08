@@ -65,15 +65,15 @@ I am a tech enthusiast always eager to learn, improve my skills, and tackle new 
   <table>
     <tr>
       <td align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arturito2005&show_icons=true&theme=dark&locale=en" />
+        <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=Arturito2005&show_icons=true&theme=dark&locale=en" />
       </td>
       <td align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturito2005&theme=dark&layout=compact&custom_title=Technologies&langs_count=9" />
+        <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Arturito2005&theme=dark&layout=compact&custom_title=Technologies&langs_count=9" />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=Arturito2005&theme=dark" />
+        <img height="180" src="https://streak-stats.demolab.com/?user=Arturito2005&theme=dark" />
       </td>
     </tr>
   </table>
